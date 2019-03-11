@@ -1,3 +1,4 @@
 token=NTU0NjcyNTk1NTI2NzQ2MTEy.D2gCoQ.Dk-hXJxCdyBdOOd2WOMIKECDV0Y
 owner=347026764351930378 
 prefix= A
+stayinchannel=true
